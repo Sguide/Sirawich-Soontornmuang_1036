@@ -1,0 +1,5 @@
+[6.1]Start():ทำงานแค่ครั้งเดียวตอนเริ่มframeที่1
+[6.2]Update():ทำงานต่อเนื่องทุกๆframe
+[6.3]FixedUpdate():เหมือนUpdate()แต่ความถี่ต่างกัน ขึ้นอยู่กับ fps
+[6.4]OnCollision():ถูกเรียกตอนวัตถุถูกชน
+[6.5]-Awake() -FixedUpdate() -OnCollision() -OnTrigger() -Start() -Update()
